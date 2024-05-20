@@ -1,2 +1,2 @@
 # Very start to learn git
-Starting of chapter Nr2 in learning GIT 
+This is the project for git course on wexler.io
