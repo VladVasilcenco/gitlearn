@@ -1,3 +1,2 @@
 # Very start to learn git
-This is the project for git course on wexler.io
-123
+This is the demo project for git course on wexler.io
